@@ -36,9 +36,6 @@
   </a>
 </div>
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/Hsantos/Hsantos/output/snake.svg" alt="Snake animation" />
-
-###
